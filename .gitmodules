@@ -1,5 +1,29 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/carpentries/universe
 	shallow = true
 	branch = HEAD
+[submodule "tinkr"]
+	path = tinkr
+	url = https://github.com/ropensci/tinkr
+	shallow = true
+	branch = master
+	registered = true
+[submodule "pegboard"]
+	path = pegboard
+	url = https://github.com/carpentries/pegboard
+	shallow = true
+	branch = main
+	registered = true
+[submodule "varnish"]
+	path = varnish
+	url = https://github.com/carpentries/varnish
+	shallow = true
+	branch = main
+	registered = true
+[submodule "sandpaper"]
+	path = sandpaper
+	url = https://github.com/carpentries/sandpaper
+	shallow = true
+	branch = main
+	registered = true
