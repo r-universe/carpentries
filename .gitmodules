@@ -13,7 +13,13 @@
 	path = pegboard
 	url = https://github.com/carpentries/pegboard
 	shallow = true
-	branch = universe-test
+	branch = main
+	registered = true
+[submodule "sandpaper"]
+	path = sandpaper
+	url = https://github.com/carpentries/sandpaper
+	shallow = true
+	branch = main
 	registered = true
 [submodule "varnish"]
 	path = varnish

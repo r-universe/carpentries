@@ -6,6 +6,9 @@
     "package": "pegboard"
   },
   {
+    "package": "sandpaper"
+  },
+  {
     "package": "varnish"
   }
 ]
