@@ -25,5 +25,5 @@
 	path = sandpaper
 	url = https://github.com/carpentries/sandpaper
 	shallow = true
-	branch = main
+	branch = use-r-universe
 	registered = true
