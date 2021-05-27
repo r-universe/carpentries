@@ -10,5 +10,17 @@
   },
   {
     "package": "varnish"
+  },
+  {
+    "package": "gert",
+    "oncran": true
+  },
+  {
+    "package": "textshaping",
+    "oncran": true
+  },
+  {
+    "package": "stringi",
+    "oncran": true
   }
 ]
