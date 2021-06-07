@@ -7,25 +7,26 @@
 	path = tinkr
 	url = https://github.com/ropensci/tinkr
 	shallow = true
-	branch = master
+	registered = true
+[submodule "xml2"]
+	path = xml2
+	url = https://github.com/r-lib/xml2
+	shallow = true
 	registered = true
 [submodule "pegboard"]
 	path = pegboard
 	url = https://github.com/carpentries/pegboard
 	shallow = true
-	branch = main
 	registered = true
 [submodule "sandpaper"]
 	path = sandpaper
 	url = https://github.com/carpentries/sandpaper
 	shallow = true
-	branch = main
 	registered = true
 [submodule "varnish"]
 	path = varnish
 	url = https://github.com/carpentries/varnish
 	shallow = true
-	branch = main
 	registered = true
 [submodule "gert"]
 	path = gert

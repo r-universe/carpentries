@@ -3,6 +3,10 @@
     "package": "tinkr"
   },
   {
+    "package": "xml2",
+    "oncran": true
+  },
+  {
     "package": "pegboard"
   },
   {
