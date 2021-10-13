@@ -51,7 +51,7 @@
 	path = textshaping
 	url = https://github.com/r-lib/textshaping
 	shallow = true
-	branch = *release
+	branch = v0.3.6
 	registered = true
 [submodule "systemfonts"]
 	path = systemfonts
