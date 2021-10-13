@@ -57,7 +57,7 @@
 	path = systemfonts
 	url = https://github.com/r-lib/systemfonts
 	shallow = true
-	branch = *release
+	branch = v1.0.3
 	registered = true
 [submodule "ragg"]
 	path = ragg
