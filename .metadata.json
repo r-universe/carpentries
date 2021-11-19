@@ -20,7 +20,23 @@
     "oncran": true
   },
   {
+    "package": "curl",
+    "oncran": true
+  },
+  {
+    "package": "openssl",
+    "oncran": true
+  },
+  {
     "package": "textshaping",
+    "oncran": true
+  },
+  {
+    "package": "systemfonts",
+    "oncran": true
+  },
+  {
+    "package": "ragg",
     "oncran": true
   },
   {

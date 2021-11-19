@@ -12,6 +12,7 @@
 	path = xml2
 	url = https://github.com/r-lib/xml2
 	shallow = true
+	branch = *release
 	registered = true
 [submodule "pegboard"]
 	path = pegboard
@@ -32,14 +33,41 @@
 	path = gert
 	url = https://github.com/r-lib/gert
 	shallow = true
+	branch = *release
+	registered = true
+[submodule "curl"]
+	path = curl
+	url = https://github.com/jeroen/curl
+	shallow = true
+	branch = *release
+	registered = true
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/jeroen/openssl
+	shallow = true
+	branch = *release
 	registered = true
 [submodule "textshaping"]
 	path = textshaping
 	url = https://github.com/r-lib/textshaping
 	shallow = true
+	branch = *release
+	registered = true
+[submodule "systemfonts"]
+	path = systemfonts
+	url = https://github.com/r-lib/systemfonts
+	shallow = true
+	branch = *release
+	registered = true
+[submodule "ragg"]
+	path = ragg
+	url = https://github.com/r-lib/ragg
+	shallow = true
+	branch = *release
 	registered = true
 [submodule "stringi"]
 	path = stringi
 	url = https://github.com/gagolews/stringi
 	shallow = true
+	branch = *release
 	registered = true
