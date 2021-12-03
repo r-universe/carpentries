@@ -1,0 +1,8 @@
+[
+  {
+    "package": "tinkr",
+    "url": "https://github.com/ropensci/tinkr",
+    "via": ["pegboard"],
+    "from": "pegboard"
+  }
+]
