@@ -69,7 +69,7 @@
 	path = ragg
 	url = https://github.com/r-lib/ragg
 	shallow = true
-	branch = v1.2.0
+	branch = v1.2.1
 	registered = true
 [submodule "stringi"]
 	path = stringi
