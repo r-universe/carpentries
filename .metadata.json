@@ -3,6 +3,10 @@
     "package": "tinkr"
   },
   {
+    "package": "xslt",
+    "oncran": true
+  },
+  {
     "package": "xml2",
     "oncran": true
   },

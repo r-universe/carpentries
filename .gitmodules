@@ -8,6 +8,12 @@
 	url = https://github.com/ropensci/tinkr
 	shallow = true
 	registered = true
+[submodule "xslt"]
+	path = xslt
+	url = https://github.com/ropensci/xslt
+	shallow = true
+	branch = *release
+	registered = true
 [submodule "xml2"]
 	path = xml2
 	url = https://github.com/r-lib/xml2
