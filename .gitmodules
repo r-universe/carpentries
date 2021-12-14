@@ -71,6 +71,12 @@
 	shallow = true
 	branch = v1.2.1
 	registered = true
+[submodule "httpuv"]
+	path = httpuv
+	url = https://github.com/rstudio/httpuv
+	shallow = true
+	branch = *release
+	registered = true
 [submodule "stringi"]
 	path = stringi
 	url = https://github.com/gagolews/stringi

@@ -44,6 +44,10 @@
     "oncran": true
   },
   {
+    "package": "httpuv",
+    "oncran": true
+  },
+  {
     "package": "stringi",
     "oncran": true
   }
