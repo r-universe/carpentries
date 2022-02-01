@@ -24,7 +24,7 @@
 	path = pegboard
 	url = https://github.com/carpentries/pegboard
 	shallow = true
-	branch = *release
+	branch = 0.1.0
 	registered = true
 [submodule "sandpaper"]
 	path = sandpaper
