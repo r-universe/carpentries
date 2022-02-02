@@ -24,16 +24,19 @@
 	path = pegboard
 	url = https://github.com/carpentries/pegboard
 	shallow = true
+	branch = *release
 	registered = true
 [submodule "sandpaper"]
 	path = sandpaper
 	url = https://github.com/carpentries/sandpaper
 	shallow = true
+	branch = *release
 	registered = true
 [submodule "varnish"]
 	path = varnish
 	url = https://github.com/carpentries/varnish
 	shallow = true
+	branch = *release
 	registered = true
 [submodule "gert"]
 	path = gert
