@@ -36,7 +36,7 @@
 	path = varnish
 	url = https://github.com/carpentries/varnish
 	shallow = true
-	branch = 0.1.1
+	branch = 0.1.2
 	registered = true
 [submodule "gert"]
 	path = gert
