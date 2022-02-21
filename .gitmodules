@@ -72,7 +72,7 @@
 	path = ragg
 	url = https://github.com/r-lib/ragg
 	shallow = true
-	branch = v1.2.1
+	branch = v1.2.2
 	registered = true
 [submodule "httpuv"]
 	path = httpuv
