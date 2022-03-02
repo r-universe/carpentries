@@ -54,7 +54,7 @@
 	path = openssl
 	url = https://github.com/jeroen/openssl
 	shallow = true
-	branch = v1.4.5
+	branch = v2.0.0
 	registered = true
 [submodule "textshaping"]
 	path = textshaping
