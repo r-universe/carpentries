@@ -36,7 +36,7 @@
 	path = varnish
 	url = https://github.com/carpentries/varnish
 	shallow = true
-	branch = 0.2.2
+	branch = 0.2.3
 	registered = true
 [submodule "glosario"]
 	path = glosario
