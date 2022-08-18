@@ -12,30 +12,35 @@
 	path = xslt
 	url = https://github.com/ropensci/xslt
 	shallow = true
+	release = true
 	branch = v1.2
 	registered = true
 [submodule "xml2"]
 	path = xml2
 	url = https://github.com/r-lib/xml2
 	shallow = true
+	release = true
 	branch = v1.3.3
 	registered = true
 [submodule "pegboard"]
 	path = pegboard
 	url = https://github.com/carpentries/pegboard
 	shallow = true
+	release = true
 	branch = 0.3.1
 	registered = true
 [submodule "sandpaper"]
 	path = sandpaper
 	url = https://github.com/carpentries/sandpaper
 	shallow = true
+	release = true
 	branch = 0.9.3
 	registered = true
 [submodule "varnish"]
 	path = varnish
 	url = https://github.com/carpentries/varnish
 	shallow = true
+	release = true
 	branch = 0.2.4
 	registered = true
 [submodule "glosario"]
@@ -47,47 +52,55 @@
 	path = gert
 	url = https://github.com/r-lib/gert
 	shallow = true
+	release = true
 	branch = v1.6.0
 	registered = true
 [submodule "curl"]
 	path = curl
 	url = https://github.com/jeroen/curl
 	shallow = true
+	release = true
 	branch = v4.3.2
 	registered = true
 [submodule "openssl"]
 	path = openssl
 	url = https://github.com/jeroen/openssl
 	shallow = true
+	release = true
 	branch = v2.0.1
 	registered = true
 [submodule "textshaping"]
 	path = textshaping
 	url = https://github.com/r-lib/textshaping
 	shallow = true
+	release = true
 	branch = v0.3.6
 	registered = true
 [submodule "systemfonts"]
 	path = systemfonts
 	url = https://github.com/r-lib/systemfonts
 	shallow = true
+	release = true
 	branch = v1.0.4
 	registered = true
 [submodule "ragg"]
 	path = ragg
 	url = https://github.com/r-lib/ragg
 	shallow = true
+	release = true
 	branch = v1.2.2
 	registered = true
 [submodule "httpuv"]
 	path = httpuv
 	url = https://github.com/rstudio/httpuv
 	shallow = true
+	release = true
 	branch = v1.6.5
 	registered = true
 [submodule "stringi"]
 	path = stringi
 	url = https://github.com/gagolews/stringi
 	shallow = true
+	release = true
 	branch = v1.7.8
 	registered = true
