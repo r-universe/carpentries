@@ -4,54 +4,67 @@
   },
   {
     "package": "xslt",
-    "oncran": true
+    "oncran": true,
+    "release": true
   },
   {
     "package": "xml2",
-    "oncran": true
+    "oncran": true,
+    "release": true
   },
   {
-    "package": "pegboard"
+    "package": "pegboard",
+    "release": true
   },
   {
-    "package": "sandpaper"
+    "package": "sandpaper",
+    "release": true
   },
   {
-    "package": "varnish"
+    "package": "varnish",
+    "release": true
   },
   {
     "package": "glosario"
   },
   {
     "package": "gert",
-    "oncran": true
+    "oncran": true,
+    "release": true
   },
   {
     "package": "curl",
-    "oncran": true
+    "oncran": true,
+    "release": true
   },
   {
     "package": "openssl",
-    "oncran": true
+    "oncran": true,
+    "release": true
   },
   {
     "package": "textshaping",
-    "oncran": true
+    "oncran": true,
+    "release": true
   },
   {
     "package": "systemfonts",
-    "oncran": true
+    "oncran": true,
+    "release": true
   },
   {
     "package": "ragg",
-    "oncran": true
+    "oncran": true,
+    "release": true
   },
   {
     "package": "httpuv",
-    "oncran": true
+    "oncran": true,
+    "release": true
   },
   {
     "package": "stringi",
-    "oncran": true
+    "oncran": true,
+    "release": true
   }
 ]
