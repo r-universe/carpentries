@@ -5,24 +5,24 @@
   {
     "package": "xslt",
     "oncran": true,
-    "release": true
+    "releasetag": true
   },
   {
     "package": "xml2",
     "oncran": true,
-    "release": true
+    "releasetag": true
   },
   {
     "package": "pegboard",
-    "release": true
+    "releasetag": true
   },
   {
     "package": "sandpaper",
-    "release": true
+    "releasetag": true
   },
   {
     "package": "varnish",
-    "release": true
+    "releasetag": true
   },
   {
     "package": "glosario"
@@ -30,41 +30,41 @@
   {
     "package": "gert",
     "oncran": true,
-    "release": true
+    "releasetag": true
   },
   {
     "package": "curl",
     "oncran": true,
-    "release": true
+    "releasetag": true
   },
   {
     "package": "openssl",
     "oncran": true,
-    "release": true
+    "releasetag": true
   },
   {
     "package": "textshaping",
     "oncran": true,
-    "release": true
+    "releasetag": true
   },
   {
     "package": "systemfonts",
     "oncran": true,
-    "release": true
+    "releasetag": true
   },
   {
     "package": "ragg",
     "oncran": true,
-    "release": true
+    "releasetag": true
   },
   {
     "package": "httpuv",
     "oncran": true,
-    "release": true
+    "releasetag": true
   },
   {
     "package": "stringi",
     "oncran": true,
-    "release": true
+    "releasetag": true
   }
 ]
