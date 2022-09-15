@@ -30,7 +30,7 @@
 	path = sandpaper
 	url = https://github.com/carpentries/sandpaper
 	shallow = true
-	branch = 0.9.5
+	branch = 0.9.6
 	registered = true
 [submodule "varnish"]
 	path = varnish
