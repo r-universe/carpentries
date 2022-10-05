@@ -47,7 +47,7 @@
 	path = gert
 	url = https://github.com/r-lib/gert
 	shallow = true
-	branch = v1.9.0
+	branch = v1.9.1
 	registered = true
 [submodule "curl"]
 	path = curl
