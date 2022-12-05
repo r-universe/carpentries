@@ -47,7 +47,7 @@
 	path = gert
 	url = https://github.com/r-lib/gert
 	shallow = true
-	branch = v1.9.1
+	branch = v1.9.2
 	registered = true
 [submodule "curl"]
 	path = curl
@@ -59,7 +59,7 @@
 	path = openssl
 	url = https://github.com/jeroen/openssl
 	shallow = true
-	branch = v2.0.1
+	branch = v2.0.5
 	registered = true
 [submodule "textshaping"]
 	path = textshaping
