@@ -89,5 +89,5 @@
 	path = stringi
 	url = https://github.com/gagolews/stringi
 	shallow = true
-	branch = v1.7.10
+	branch = v1.7.11
 	registered = true
