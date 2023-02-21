@@ -12,7 +12,7 @@
 	path = xslt
 	url = https://github.com/ropensci/xslt
 	shallow = true
-	branch = v1.2
+	branch = v1.4.4
 	registered = true
 [submodule "xml2"]
 	path = xml2
