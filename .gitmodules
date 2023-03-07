@@ -20,6 +20,12 @@
 	shallow = true
 	branch = v1.3.3
 	registered = true
+[submodule "renv"]
+	path = renv
+	url = https://github.com/rstudio/renv
+	shallow = true
+	branch = 0.17.0-26
+	registered = true
 [submodule "pegboard"]
 	path = pegboard
 	url = https://github.com/carpentries/pegboard

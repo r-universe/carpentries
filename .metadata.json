@@ -14,6 +14,10 @@
     "releasetag": true
   },
   {
+    "package": "renv",
+    "oncran": true
+  },
+  {
     "package": "pegboard",
     "releasetag": true
   },
