@@ -24,7 +24,7 @@
 	path = renv
 	url = https://github.com/rstudio/renv
 	shallow = true
-	branch = 0.17.0-26
+	branch = 0.17.0-38
 	registered = true
 [submodule "pegboard"]
 	path = pegboard
