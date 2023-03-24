@@ -6,12 +6,6 @@
     "from": "sandpaper"
   },
   {
-    "package": "renv",
-    "url": "https://github.com/rstudio/renv",
-    "via": ["sandpaper"],
-    "from": "sandpaper"
-  },
-  {
     "package": "tinkr",
     "url": "https://github.com/ropensci/tinkr",
     "via": ["pegboard"],
