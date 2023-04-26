@@ -18,7 +18,7 @@
 	path = xml2
 	url = https://github.com/r-lib/xml2
 	shallow = true
-	branch = v1.3.3
+	branch = v1.3.4
 	registered = true
 [submodule "renv"]
 	path = renv
