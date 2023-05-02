@@ -89,7 +89,7 @@
 	path = httpuv
 	url = https://github.com/rstudio/httpuv
 	shallow = true
-	branch = v1.6.9
+	branch = v1.6.10
 	registered = true
 [submodule "stringi"]
 	path = stringi
