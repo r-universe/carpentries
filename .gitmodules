@@ -59,7 +59,7 @@
 	path = curl
 	url = https://github.com/jeroen/curl
 	shallow = true
-	branch = v5.0.0
+	branch = v5.0.1
 	registered = true
 [submodule "openssl"]
 	path = openssl
