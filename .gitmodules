@@ -1,99 +1,66 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/carpentries/universe
-	shallow = true
 	branch = HEAD
 [submodule "tinkr"]
 	path = tinkr
 	url = https://github.com/ropensci/tinkr
-	shallow = true
-	registered = true
 [submodule "xslt"]
 	path = xslt
 	url = https://github.com/ropensci/xslt
-	shallow = true
 	branch = v1.4.4
-	registered = true
 [submodule "xml2"]
 	path = xml2
 	url = https://github.com/r-lib/xml2
-	shallow = true
 	branch = v1.3.4
-	registered = true
 [submodule "renv"]
 	path = renv
 	url = https://github.com/rstudio/renv
-	shallow = true
 	branch = 0.17.0-38
-	registered = true
 [submodule "pegboard"]
 	path = pegboard
 	url = https://github.com/carpentries/pegboard
-	shallow = true
 	branch = 0.5.2
-	registered = true
 [submodule "sandpaper"]
 	path = sandpaper
 	url = https://github.com/carpentries/sandpaper
-	shallow = true
 	branch = 0.12.4
-	registered = true
 [submodule "varnish"]
 	path = varnish
 	url = https://github.com/carpentries/varnish
-	shallow = true
 	branch = 0.2.17
-	registered = true
 [submodule "glosario"]
 	path = glosario
 	url = https://github.com/carpentries/glosario-r
-	shallow = true
-	registered = true
 [submodule "gert"]
 	path = gert
 	url = https://github.com/r-lib/gert
-	shallow = true
 	branch = v1.9.2
-	registered = true
 [submodule "curl"]
 	path = curl
 	url = https://github.com/jeroen/curl
-	shallow = true
 	branch = v5.0.1
-	registered = true
 [submodule "openssl"]
 	path = openssl
 	url = https://github.com/jeroen/openssl
-	shallow = true
 	branch = v2.0.6
-	registered = true
 [submodule "textshaping"]
 	path = textshaping
 	url = https://github.com/r-lib/textshaping
-	shallow = true
 	branch = v0.3.6
-	registered = true
 [submodule "systemfonts"]
 	path = systemfonts
 	url = https://github.com/r-lib/systemfonts
-	shallow = true
 	branch = v1.0.4
-	registered = true
 [submodule "ragg"]
 	path = ragg
 	url = https://github.com/r-lib/ragg
-	shallow = true
 	branch = v1.2.5
-	registered = true
 [submodule "httpuv"]
 	path = httpuv
 	url = https://github.com/rstudio/httpuv
-	shallow = true
 	branch = v1.6.11
-	registered = true
 [submodule "stringi"]
 	path = stringi
 	url = https://github.com/gagolews/stringi
-	shallow = true
 	branch = v1.7.12
-	registered = true
