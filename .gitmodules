@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/carpentries/universe
+	url = https://github.com/carpentries/carpentries.r-universe.dev
 	branch = HEAD
 [submodule "tinkr"]
 	path = tinkr
