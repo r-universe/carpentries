@@ -2,65 +2,65 @@
 	path = .registry
 	url = https://github.com/carpentries/carpentries.r-universe.dev
 	branch = HEAD
-[submodule "tinkr"]
-	path = tinkr
-	url = https://github.com/ropensci/tinkr
-[submodule "xslt"]
-	path = xslt
-	url = https://github.com/ropensci/xslt
-	branch = v1.4.4
-[submodule "xml2"]
-	path = xml2
-	url = https://github.com/r-lib/xml2
-	branch = v1.3.5
-[submodule "renv"]
-	path = renv
-	url = https://github.com/rstudio/renv
-	branch = 0.17.0-38
-[submodule "pegboard"]
-	path = pegboard
-	url = https://github.com/carpentries/pegboard
-	branch = 0.5.2
-[submodule "sandpaper"]
-	path = sandpaper
-	url = https://github.com/carpentries/sandpaper
-	branch = 0.12.4
-[submodule "varnish"]
-	path = varnish
-	url = https://github.com/carpentries/varnish
-	branch = 0.2.17
-[submodule "glosario"]
-	path = glosario
-	url = https://github.com/carpentries/glosario-r
-[submodule "gert"]
-	path = gert
-	url = https://github.com/r-lib/gert
-	branch = v1.9.2
 [submodule "curl"]
 	path = curl
 	url = https://github.com/jeroen/curl
 	branch = v5.0.1
-[submodule "openssl"]
-	path = openssl
-	url = https://github.com/jeroen/openssl
-	branch = v2.0.6
-[submodule "textshaping"]
-	path = textshaping
-	url = https://github.com/r-lib/textshaping
-	branch = v0.3.6
-[submodule "systemfonts"]
-	path = systemfonts
-	url = https://github.com/r-lib/systemfonts
-	branch = v1.0.4
-[submodule "ragg"]
-	path = ragg
-	url = https://github.com/r-lib/ragg
-	branch = v1.2.5
+[submodule "gert"]
+	path = gert
+	url = https://github.com/r-lib/gert
+	branch = v1.9.2
+[submodule "glosario"]
+	path = glosario
+	url = https://github.com/carpentries/glosario-r
 [submodule "httpuv"]
 	path = httpuv
 	url = https://github.com/rstudio/httpuv
 	branch = v1.6.11
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/jeroen/openssl
+	branch = v2.0.6
+[submodule "pegboard"]
+	path = pegboard
+	url = https://github.com/carpentries/pegboard
+	branch = 0.5.2
+[submodule "ragg"]
+	path = ragg
+	url = https://github.com/r-lib/ragg
+	branch = v1.2.5
+[submodule "renv"]
+	path = renv
+	url = https://github.com/rstudio/renv
+	branch = 0.17.0-38
+[submodule "sandpaper"]
+	path = sandpaper
+	url = https://github.com/carpentries/sandpaper
+	branch = 0.12.4
 [submodule "stringi"]
 	path = stringi
 	url = https://github.com/gagolews/stringi
 	branch = v1.7.12
+[submodule "systemfonts"]
+	path = systemfonts
+	url = https://github.com/r-lib/systemfonts
+	branch = v1.0.4
+[submodule "textshaping"]
+	path = textshaping
+	url = https://github.com/r-lib/textshaping
+	branch = v0.3.6
+[submodule "tinkr"]
+	path = tinkr
+	url = https://github.com/ropensci/tinkr
+[submodule "varnish"]
+	path = varnish
+	url = https://github.com/carpentries/varnish
+	branch = 0.2.17
+[submodule "xml2"]
+	path = xml2
+	url = https://github.com/r-lib/xml2
+	branch = v1.3.5
+[submodule "xslt"]
+	path = xslt
+	url = https://github.com/ropensci/xslt
+	branch = v1.4.4
