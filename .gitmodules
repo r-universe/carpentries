@@ -20,7 +20,7 @@
 [submodule "openssl"]
 	path = openssl
 	url = https://github.com/jeroen/openssl
-	branch = v2.0.6
+	branch = 2.1.1
 [submodule "pegboard"]
 	path = pegboard
 	url = https://github.com/carpentries/pegboard
