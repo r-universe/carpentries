@@ -9,7 +9,7 @@
 [submodule "gert"]
 	path = gert
 	url = https://github.com/r-lib/gert
-	branch = v1.9.3
+	branch = v2.0.0
 [submodule "glosario"]
 	path = glosario
 	url = https://github.com/carpentries/glosario-r
