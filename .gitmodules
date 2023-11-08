@@ -55,7 +55,7 @@
 [submodule "varnish"]
 	path = varnish
 	url = https://github.com/carpentries/varnish
-	branch = 0.3.1
+	branch = 0.3.2
 [submodule "xml2"]
 	path = xml2
 	url = https://github.com/r-lib/xml2
