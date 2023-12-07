@@ -5,7 +5,7 @@
 [submodule "curl"]
 	path = curl
 	url = https://github.com/jeroen/curl
-	branch = v5.0.2
+	branch = v5.2.0
 [submodule "gert"]
 	path = gert
 	url = https://github.com/r-lib/gert
