@@ -14,7 +14,7 @@
   {
     "package": "tinkr",
     "url": "https://github.com/ropensci/tinkr",
-    "via": ["sandpaper"],
+    "via": ["sandpaper", "pegboard"],
     "from": "sandpaper"
   },
   {
