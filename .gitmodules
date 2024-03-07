@@ -44,7 +44,7 @@
 [submodule "systemfonts"]
 	path = systemfonts
 	url = https://github.com/r-lib/systemfonts
-	branch = v1.0.5
+	branch = v1.0.6
 [submodule "textshaping"]
 	path = textshaping
 	url = https://github.com/r-lib/textshaping
