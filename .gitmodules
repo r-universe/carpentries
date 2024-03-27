@@ -16,7 +16,7 @@
 [submodule "httpuv"]
 	path = httpuv
 	url = https://github.com/rstudio/httpuv
-	branch = v1.6.14
+	branch = v1.6.15
 [submodule "openssl"]
 	path = openssl
 	url = https://github.com/jeroen/openssl
