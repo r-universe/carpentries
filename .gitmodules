@@ -48,7 +48,7 @@
 [submodule "textshaping"]
 	path = textshaping
 	url = https://github.com/r-lib/textshaping
-	branch = v0.3.7
+	branch = v0.4.0
 [submodule "tinkr"]
 	path = tinkr
 	url = https://github.com/ropensci/tinkr
