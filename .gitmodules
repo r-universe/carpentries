@@ -36,7 +36,7 @@
 [submodule "sandpaper"]
 	path = sandpaper
 	url = https://github.com/carpentries/sandpaper
-	branch = 0.16.4
+	branch = 0.16.5
 [submodule "stringi"]
 	path = stringi
 	url = https://github.com/gagolews/stringi
@@ -55,7 +55,7 @@
 [submodule "varnish"]
 	path = varnish
 	url = https://github.com/carpentries/varnish
-	branch = 1.0.2
+	branch = 1.0.3
 [submodule "xml2"]
 	path = xml2
 	url = https://github.com/r-lib/xml2
