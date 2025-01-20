@@ -44,11 +44,11 @@
 [submodule "systemfonts"]
 	path = systemfonts
 	url = https://github.com/r-lib/systemfonts
-	branch = v1.2.0
+	branch = v1.2.1
 [submodule "textshaping"]
 	path = textshaping
 	url = https://github.com/r-lib/textshaping
-	branch = v0.4.1
+	branch = v1.0.0
 [submodule "tinkr"]
 	path = tinkr
 	url = https://github.com/ropensci/tinkr
