@@ -24,7 +24,7 @@
 [submodule "pegboard"]
 	path = pegboard
 	url = https://github.com/carpentries/pegboard
-	branch = 0.7.8
+	branch = 0.7.9
 [submodule "ragg"]
 	path = ragg
 	url = https://github.com/r-lib/ragg
