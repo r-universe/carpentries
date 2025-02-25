@@ -52,6 +52,7 @@
 [submodule "tinkr"]
 	path = tinkr
 	url = https://github.com/ropensci/tinkr
+	branch = maelle-patch-1
 [submodule "varnish"]
 	path = varnish
 	url = https://github.com/carpentries/varnish
