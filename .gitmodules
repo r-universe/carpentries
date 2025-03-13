@@ -60,7 +60,7 @@
 [submodule "xml2"]
 	path = xml2
 	url = https://github.com/r-lib/xml2
-	branch = v1.3.7
+	branch = v1.3.8
 [submodule "xslt"]
 	path = xslt
 	url = https://github.com/ropensci/xslt
