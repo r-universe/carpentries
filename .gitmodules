@@ -28,7 +28,7 @@
 [submodule "ragg"]
 	path = ragg
 	url = https://github.com/r-lib/ragg
-	branch = v1.3.3
+	branch = v1.4.0
 [submodule "renv"]
 	path = renv
 	url = https://github.com/rstudio/renv
