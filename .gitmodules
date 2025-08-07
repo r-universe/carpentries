@@ -5,7 +5,7 @@
 [submodule "curl"]
 	path = curl
 	url = https://github.com/jeroen/curl
-	branch = v8.4.0
+	branch = v6.4.0
 [submodule "gert"]
 	path = gert
 	url = https://github.com/r-lib/gert
@@ -36,7 +36,7 @@
 [submodule "sandpaper"]
 	path = sandpaper
 	url = https://github.com/carpentries/sandpaper
-	branch = 0.16.12
+	branch = 0.17.0
 [submodule "stringi"]
 	path = stringi
 	url = https://github.com/gagolews/stringi
@@ -56,7 +56,7 @@
 [submodule "varnish"]
 	path = varnish
 	url = https://github.com/carpentries/varnish
-	branch = 1.0.6
+	branch = 1.0.7
 [submodule "xml2"]
 	path = xml2
 	url = https://github.com/r-lib/xml2
